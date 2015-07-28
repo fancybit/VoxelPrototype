@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 99e2ace4ce482cd479f111196e9a6148
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: exp_beatrix_ski_blue.001
+    100002: //RootNode
+    100004: VoxelMicael
+    100006: VoxelMicael|body
+    100008: VoxelMicael|foot.l
+    100010: VoxelMicael|foot.r
+    100012: VoxelMicael|hand.l
+    100014: VoxelMicael|hand.r
+    100016: VoxelMicael|head
+    100018: VoxelMicael|lowerArm.l
+    100020: VoxelMicael|lowerArm.r
+    100022: VoxelMicael|lowerLeg.l
+    100024: VoxelMicael|lowerLeg.r
+    100026: VoxelMicael|neck
+    100028: VoxelMicael|shoulder.l
+    100030: VoxelMicael|shoulder.r
+    100032: VoxelMicael|upperArm.l
+    100034: VoxelMicael|upperArm.r
+    100036: VoxelMicael|upperBody
+    100038: VoxelMicael|upperLeg.l
+    100040: VoxelMicael|upperLeg.r
+    400000: exp_beatrix_ski_blue.001
+    400002: //RootNode
+    400004: VoxelMicael
+    400006: VoxelMicael|body
+    400008: VoxelMicael|foot.l
+    400010: VoxelMicael|foot.r
+    400012: VoxelMicael|hand.l
+    400014: VoxelMicael|hand.r
+    400016: VoxelMicael|head
+    400018: VoxelMicael|lowerArm.l
+    400020: VoxelMicael|lowerArm.r
+    400022: VoxelMicael|lowerLeg.l
+    400024: VoxelMicael|lowerLeg.r
+    400026: VoxelMicael|neck
+    400028: VoxelMicael|shoulder.l
+    400030: VoxelMicael|shoulder.r
+    400032: VoxelMicael|upperArm.l
+    400034: VoxelMicael|upperArm.r
+    400036: VoxelMicael|upperBody
+    400038: VoxelMicael|upperLeg.l
+    400040: VoxelMicael|upperLeg.r
+    4300000: exp_beatrix_ski_blue.001
+    9500000: //RootNode
+    13700000: exp_beatrix_ski_blue.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: VoxelMicael|body
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0941377133, y: 0, z: .0470688567}
+        length: .117672175
+        modified: 1
+    - boneName: VoxelMicael|upperLeg.l
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .105059259, y: 0, z: .0525296293}
+        length: .131324112
+        modified: 1
+    - boneName: VoxelMicael|upperLeg.r
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .105059274, y: 0, z: .0525296368}
+        length: .131324127
+        modified: 1
+    - boneName: VoxelMicael|lowerLeg.l
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .120064519, y: 0, z: .0600322597}
+        length: .150080681
+        modified: 1
+    - boneName: VoxelMicael|lowerLeg.r
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .120064519, y: 0, z: .0600322597}
+        length: .150080681
+        modified: 1
+    - boneName: VoxelMicael|foot.l
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0777186826, y: 0, z: .0388593413}
+        length: .0971483886
+        modified: 1
+    - boneName: VoxelMicael|foot.r
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0777180716, y: 0, z: .0388590358}
+        length: .0971476287
+        modified: 1
+    - boneName: VoxelMicael|upperBody
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .216120809, y: 0, z: .108060405}
+        length: .270151079
+        modified: 1
+    - boneName: VoxelMicael|neck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0749914348, y: 0, z: .0374957174}
+        length: .0937393308
+        modified: 1
+    - boneName: VoxelMicael|head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0749914348, y: 0, z: .0374957174}
+        length: .0937393308
+        modified: 1
+    - boneName: VoxelMicael|upperArm.l
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .142617539, y: 0, z: .0713087693}
+        length: .178271994
+        modified: 1
+    - boneName: VoxelMicael|upperArm.r
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .138331786, y: 0, z: .0691658929}
+        length: .172914803
+        modified: 1
+    - boneName: VoxelMicael|lowerArm.l
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .118163198, y: 0, z: .0590815991}
+        length: .147704035
+        modified: 1
+    - boneName: VoxelMicael|lowerArm.r
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .114612371, y: 0, z: .0573061854}
+        length: .143265501
+        modified: 1
+    - boneName: VoxelMicael|hand.l
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0590815991, y: 0, z: .0295407996}
+        length: .0738520175
+        modified: 1
+    - boneName: VoxelMicael|hand.r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0573061854, y: 0, z: .0286530927}
+        length: .0716327503
+        modified: 1
+    skeleton:
+    - name: voxelBeatrix
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelMicael
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 1.30815184, y: 1.30815184, z: 1.30815184}
+      transformModified: 1
+    - name: VoxelMicael|body
+      position: {x: 0, y: -3.37489992e-09, z: .286269993}
+      rotation: {x: .707106709, y: -5.9604627e-08, z: -5.96046306e-08, w: .707106829}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VoxelMicael|upperBody
+      position: {x: 0, y: .0899529979, z: 0}
+      rotation: {x: -3.55271347e-15, y: 8.42936672e-08, z: -4.23516474e-22, w: .99999994}
+      scale: {x: .917678654, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelMicael|neck
+      position: {x: -0, y: .206513643, z: 0}
+      rotation: {x: -3.55271347e-15, y: -7.10542736e-15, z: -4.23516524e-22, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelMicael|head
+      position: {x: -0, y: .0716578364, z: 0}
+      rotation: {x: -3.55271347e-15, y: 1.27054932e-21, z: -4.23516448e-22, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelMicael|shoulder.l
+      position: {x: -0, y: .206513643, z: 0}
+      rotation: {x: .52120775, y: -.482798338, z: -.51627785, w: -.478231639}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: VoxelMicael|upperArm.l
+      position: {x: -3.09169991e-05, y: .223210007, z: .00325349998}
+      rotation: {x: .0219142586, y: -.00475070206, z: .000104006453, w: .999748528}
+      scale: {x: .999999821, y: 1.14363527, z: .999999762}
+      transformModified: 1
+    - name: VoxelMicael|lowerArm.l
+      position: {x: 6.21724894e-15, y: .119161889, z: -8.43769499e-15}
+      rotation: {x: -.0232113637, y: 3.25595579e-07, z: 3.4063067e-08, w: .999730527}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: VoxelMicael|hand.l
+      position: {x: -5.32907052e-15, y: .098729454, z: -7.45056594e-09}
+      rotation: {x: -.144212127, y: 9.64747073e-07, z: -2.16651785e-07, w: .989546776}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: VoxelMicael|shoulder.r
+      position: {x: -0, y: .206513643, z: 0}
+      rotation: {x: .52120775, y: .482798338, z: .51627785, w: -.478231639}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: VoxelMicael|upperArm.r
+      position: {x: 4.11250003e-05, y: .237230003, z: .00432780012}
+      rotation: {x: .0219142735, y: .0047507775, z: -.000104050327, w: .999748528}
+      scale: {x: .999999821, y: 1.10926855, z: .999999762}
+      transformModified: 1
+    - name: VoxelMicael|lowerArm.r
+      position: {x: 8.8817842e-16, y: .119161889, z: -8.43769499e-15}
+      rotation: {x: -.0232113339, y: -2.67381949e-07, z: -3.31289201e-08, w: .999730527}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: VoxelMicael|hand.r
+      position: {x: 5.32907052e-15, y: .098729454, z: -7.45056594e-09}
+      rotation: {x: -.144212127, y: -9.64747073e-07, z: 2.16651785e-07, w: .989546776}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: VoxelMicael|upperLeg.l
+      position: {x: -.141327471, y: .00262483954, z: 1.20927428e-08}
+      rotation: {x: .7062819, y: -.0341441743, z: .7062819, w: .0341441743}
+      scale: {x: .999970317, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: VoxelMicael|lowerLeg.l
+      position: {x: 1.77635684e-15, y: .100389078, z: -1.86264981e-09}
+      rotation: {x: -2.02387767e-07, y: .999213874, z: .0396423861, w: -4.61710306e-06}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: VoxelMicael|foot.l
+      position: {x: -7.71917252e-14, y: .114727341, z: -2.90998003e-09}
+      rotation: {x: .495674074, y: -.495679468, z: .504288077, w: .504284143}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelMicael|upperLeg.r
+      position: {x: .141327471, y: .00262483954, z: -3.55593102e-08}
+      rotation: {x: .706282794, y: .0341266356, z: -.706282794, w: .0341266356}
+      scale: {x: .999970317, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: VoxelMicael|lowerLeg.r
+      position: {x: 1.77635684e-15, y: .100389078, z: -4.16333634e-15}
+      rotation: {x: 2.02387682e-07, y: .999213874, z: .0396423861, w: 4.61710306e-06}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: VoxelMicael|foot.r
+      position: {x: -6.30884234e-14, y: .114727341, z: -3.37564576e-09}
+      rotation: {x: .495674074, y: .495679468, z: -.504288077, w: .504284143}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

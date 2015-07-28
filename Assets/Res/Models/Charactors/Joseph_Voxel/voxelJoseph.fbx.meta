@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 2265b9fc669235a4eb4418840d02d398
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: exp_joseph_training_red.002
+    100002: //RootNode
+    100004: VoxelJosephJoggingRed
+    100006: VoxelJosephJoggingRed|body
+    100008: VoxelJosephJoggingRed|foot.l
+    100010: VoxelJosephJoggingRed|foot.r
+    100012: VoxelJosephJoggingRed|hand.l
+    100014: VoxelJosephJoggingRed|hand.r
+    100016: VoxelJosephJoggingRed|head
+    100018: VoxelJosephJoggingRed|lowerArm.l
+    100020: VoxelJosephJoggingRed|lowerArm.r
+    100022: VoxelJosephJoggingRed|lowerLeg.l
+    100024: VoxelJosephJoggingRed|lowerLeg.r
+    100026: VoxelJosephJoggingRed|neck
+    100028: VoxelJosephJoggingRed|shoulder.l
+    100030: VoxelJosephJoggingRed|shoulder.r
+    100032: VoxelJosephJoggingRed|upperArm.l
+    100034: VoxelJosephJoggingRed|upperArm.r
+    100036: VoxelJosephJoggingRed|upperBody
+    100038: VoxelJosephJoggingRed|upperLeg.l
+    100040: VoxelJosephJoggingRed|upperLeg.r
+    400000: exp_joseph_training_red.002
+    400002: //RootNode
+    400004: VoxelJosephJoggingRed
+    400006: VoxelJosephJoggingRed|body
+    400008: VoxelJosephJoggingRed|foot.l
+    400010: VoxelJosephJoggingRed|foot.r
+    400012: VoxelJosephJoggingRed|hand.l
+    400014: VoxelJosephJoggingRed|hand.r
+    400016: VoxelJosephJoggingRed|head
+    400018: VoxelJosephJoggingRed|lowerArm.l
+    400020: VoxelJosephJoggingRed|lowerArm.r
+    400022: VoxelJosephJoggingRed|lowerLeg.l
+    400024: VoxelJosephJoggingRed|lowerLeg.r
+    400026: VoxelJosephJoggingRed|neck
+    400028: VoxelJosephJoggingRed|shoulder.l
+    400030: VoxelJosephJoggingRed|shoulder.r
+    400032: VoxelJosephJoggingRed|upperArm.l
+    400034: VoxelJosephJoggingRed|upperArm.r
+    400036: VoxelJosephJoggingRed|upperBody
+    400038: VoxelJosephJoggingRed|upperLeg.l
+    400040: VoxelJosephJoggingRed|upperLeg.r
+    4300000: exp_joseph_training_red.002
+    9500000: //RootNode
+    13700000: exp_joseph_training_red.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: VoxelJosephJoggingRed|body
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0927051976, y: 0, z: .0463525988}
+        length: .115881532
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|upperLeg.l
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .101999365, y: 0, z: .0509996824}
+        length: .127499238
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|upperLeg.r
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .0975199267, y: 0, z: .0487599634}
+        length: .12189994
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|lowerLeg.l
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .118237667, y: 0, z: .0591188334}
+        length: .147797123
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|lowerLeg.r
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .118237667, y: 0, z: .0591188334}
+        length: .147797123
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|foot.l
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0628237426, y: 0, z: .0314118713}
+        length: .0785297155
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|foot.r
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0673251599, y: 0, z: .03366258}
+        length: .0841564834
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|upperBody
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .242262825, y: 0, z: .121131413}
+        length: .30282861
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|neck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0392827354, y: 0, z: .0196413677}
+        length: .0491034389
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0392827354, y: 0, z: .0196413677}
+        length: .0491034389
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|upperArm.l
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .144828409, y: 0, z: .0724142045}
+        length: .181035578
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|upperArm.r
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .144761696, y: 0, z: .0723808482}
+        length: .180952191
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|lowerArm.l
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .101750366, y: 0, z: .0508751832}
+        length: .127187997
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|lowerArm.r
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .101750366, y: 0, z: .0508751832}
+        length: .127187997
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|hand.l
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0508751832, y: 0, z: .0254375916}
+        length: .0635939986
+        modified: 1
+    - boneName: VoxelJosephJoggingRed|hand.r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0508751832, y: 0, z: .0254375916}
+        length: .0635939986
+        modified: 1
+    skeleton:
+    - name: voxelJoseph
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106709}
+      scale: {x: 1.2882477, y: 1.2882477, z: 1.2882477}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|body
+      position: {x: 0, y: 1.89219995e-09, z: .271539986}
+      rotation: {x: .707106709, y: -5.9604627e-08, z: -5.96046306e-08, w: .707106829}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|upperBody
+      position: {x: -0, y: .0899528563, z: 0}
+      rotation: {x: -3.55271347e-15, y: 8.42936672e-08, z: -4.23516474e-22, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|neck
+      position: {x: -0, y: .235070288, z: 0}
+      rotation: {x: -3.55271347e-15, y: -7.10542736e-15, z: -4.23516524e-22, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|head
+      position: {x: -0, y: .0381164551, z: 0}
+      rotation: {x: -3.55271347e-15, y: 1.27054932e-21, z: -4.23516448e-22, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|shoulder.l
+      position: {x: -0, y: .235070288, z: 0}
+      rotation: {x: .550805092, y: -.44341141, z: -.550805092, w: -.44341141}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|upperArm.l
+      position: {x: -1.44139998e-08, y: .224150002, z: .049984999}
+      rotation: {x: .0876764134, y: 1.05694411e-07, z: 1.0826267e-08, w: .996149004}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|lowerArm.l
+      position: {x: -6.23340002e-09, y: .140180007, z: .00989190023}
+      rotation: {x: -.0159979854, y: 1.78884889e-07, z: -2.70418271e-10, w: .999872029}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|hand.l
+      position: {x: -1.77635684e-15, y: .0987294912, z: -1.49011443e-08}
+      rotation: {x: -.144212127, y: 9.68145173e-07, z: -2.17147104e-07, w: .989546776}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|shoulder.r
+      position: {x: -0, y: .235070288, z: 0}
+      rotation: {x: .550805092, y: .44341141, z: .550805092, w: -.44341141}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|upperArm.r
+      position: {x: 2.6728999e-09, y: .204390004, z: .0168609992}
+      rotation: {x: .0876764134, y: -7.64883481e-08, z: 1.95606074e-08, w: .996149004}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|lowerArm.r
+      position: {x: 3.94339983e-09, y: .140290007, z: .00698650023}
+      rotation: {x: -.0159980431, y: -1.18365229e-07, z: 2.43098586e-09, w: .999871969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|hand.r
+      position: {x: -0, y: .0987294912, z: -1.49011443e-08}
+      rotation: {x: -.144212127, y: -9.68145173e-07, z: 2.17147104e-07, w: .989546776}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|upperLeg.l
+      position: {x: -.141327471, y: .00262483954, z: 1.20927419e-08}
+      rotation: {x: .7062819, y: -.0341441743, z: .7062819, w: .0341441743}
+      scale: {x: .999970317, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|lowerLeg.l
+      position: {x: 5.94399974e-10, y: .0989710018, z: -.000137430005}
+      rotation: {x: -2.02387767e-07, y: .999213874, z: .0396423861, w: -4.61710306e-06}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|foot.l
+      position: {x: -7.71917252e-14, y: .114727333, z: -2.90997981e-09}
+      rotation: {x: .495674074, y: -.495679468, z: .504288077, w: .504284143}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|upperLeg.r
+      position: {x: .141327471, y: .00262483954, z: -3.55593066e-08}
+      rotation: {x: .706282794, y: .0341266356, z: -.706282794, w: .0341266356}
+      scale: {x: .999970317, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|lowerLeg.r
+      position: {x: -2.4172e-09, y: .0946229994, z: -.000558550004}
+      rotation: {x: 2.02387682e-07, y: .999213874, z: .0396423861, w: 4.61710306e-06}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: VoxelJosephJoggingRed|foot.r
+      position: {x: -6.30884234e-14, y: .114727333, z: -3.37564554e-09}
+      rotation: {x: .495674074, y: .495679468, z: -.504288077, w: .504284143}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 8f24d505edd2cb643a5f18e5ec79dc03
+timeCreated: 1436615235
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: exp_michael_v_white.001
+    100002: VoxelMicael
+    100004: VoxelMicael|body
+    100006: VoxelMicael|foot.l
+    100008: VoxelMicael|foot.r
+    100010: VoxelMicael|hand.l
+    100012: VoxelMicael|hand.r
+    100014: VoxelMicael|head
+    100016: VoxelMicael|lowerArm.l
+    100018: VoxelMicael|lowerArm.r
+    100020: VoxelMicael|lowerLeg.l
+    100022: VoxelMicael|lowerLeg.r
+    100024: VoxelMicael|neck
+    100026: VoxelMicael|shoulder.l
+    100028: VoxelMicael|shoulder.r
+    100030: VoxelMicael|upperArm.l
+    100032: VoxelMicael|upperArm.r
+    100034: VoxelMicael|upperBody
+    100036: VoxelMicael|upperLeg.l
+    100038: VoxelMicael|upperLeg.r
+    100040: //RootNode
+    400000: exp_michael_v_white.001
+    400002: VoxelMicael
+    400004: VoxelMicael|body
+    400006: VoxelMicael|foot.l
+    400008: VoxelMicael|foot.r
+    400010: VoxelMicael|hand.l
+    400012: VoxelMicael|hand.r
+    400014: VoxelMicael|head
+    400016: VoxelMicael|lowerArm.l
+    400018: VoxelMicael|lowerArm.r
+    400020: VoxelMicael|lowerLeg.l
+    400022: VoxelMicael|lowerLeg.r
+    400024: VoxelMicael|neck
+    400026: VoxelMicael|shoulder.l
+    400028: VoxelMicael|shoulder.r
+    400030: VoxelMicael|upperArm.l
+    400032: VoxelMicael|upperArm.r
+    400034: VoxelMicael|upperBody
+    400036: VoxelMicael|upperLeg.l
+    400038: VoxelMicael|upperLeg.r
+    400040: //RootNode
+    4300000: exp_michael_v_white.001
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: exp_michael_v_white.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

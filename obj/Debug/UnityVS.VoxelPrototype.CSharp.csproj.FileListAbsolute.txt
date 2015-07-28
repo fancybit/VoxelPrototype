@@ -1,0 +1,17 @@
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\Debuger.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\iBoxDB.net2.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\works\unity\VoxelPrototype\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\works\unity\VoxelPrototype\obj\Debug\UnityVS.VoxelPrototype.CSharp.csprojResolveAssemblyReference.cache
+D:\works\unity\VoxelPrototype\obj\Debug\Assembly-CSharp.dll
+D:\works\unity\VoxelPrototype\obj\Debug\Assembly-CSharp.pdb
